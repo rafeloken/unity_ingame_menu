@@ -1,5 +1,5 @@
-unity_ingame_menu
-=================
+A Simple In-Game Menu in Unity
+==============================
 
 This is demonstrating a way to implement an in-game menu when using Unity®.
 
