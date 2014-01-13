@@ -1,7 +1,7 @@
 A Simple In-Game Menu in Unity
 ==============================
 
-This is demonstrating a way to implement an in-game menu when using Unity®.
+This is demonstrating a way to implement an in-game menu when using Unity®.  For a complete run down of the code check out [my blog](http://www.dannyb.me/posts/2014/01/unity_ingame_menu/)!
 
 ### How to open and run ###
 
